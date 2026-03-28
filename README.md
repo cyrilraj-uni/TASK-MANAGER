@@ -1,0 +1,1 @@
+Task Manager for Students is a simple productivity tool that helps learners organize assignments, deadlines, and study goals. It allows them to create tasks, set reminders, track progress, and prioritize work—making it easier to balance academics, projects, and personal activities.
